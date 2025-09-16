@@ -36,8 +36,12 @@ For this demo release, we provide:
 ---
 
 ## 📸 Screenshots
-<img width="1895" height="902" alt="Capture d'écran 2025-09-16 175149" src="https://github.com/user-attachments/assets/177d9244-631b-4c8e-815d-b1fdba0e179c" />
 
+
+<img width="1891" height="864" alt="Capture d'écran 2025-09-16 175134" src="https://github.com/user-attachments/assets/9c2b64fa-9f1b-4ce8-8a5d-9c29bff6a029" />
+<img width="1887" height="895" alt="Capture d'écran 2025-09-16 175119" src="https://github.com/user-attachments/assets/21e34126-57f8-4de4-a148-caace6cdc8f7" />
+<img width="1919" height="903" alt="Capture d'écran 2025-09-16 175044" src="https://github.com/user-attachments/assets/93579602-30c0-40eb-aa6d-7abc5d8924b0" />
+<img width="1895" height="902" alt="Capture d'écran 2025-09-16 175149" src="https://github.com/user-attachments/assets/fab7ee86-88a8-41d8-9dcf-5bdf1b7d70fa" />
 
 ---
 ## The App 
