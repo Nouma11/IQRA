@@ -1,7 +1,7 @@
 # 📖 IQRA – Quran Web App (Demo)
 
 IQRA is a simple demo web application designed to make the **Quran easy to read, listen to, and explore**.  
-This project is lightweight and educational, created for practicing frontend development and learning API integration.
+This project is lightweight and educational.
 
 ---
 
